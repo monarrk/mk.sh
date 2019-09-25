@@ -1,3 +1,5 @@
+#!/bin/bash
+
 DIR=${PWD##*/}
 
 if [[ -z $1 ]]; then
